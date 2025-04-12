@@ -3,7 +3,7 @@
 ## UMHackathon 2025
 
 * **Domain:** Domain 1 - Enhancing Charity & Donations through Fintech
-* **Team Name:** [Your Team Name]
+* **Team Name:** sszer0
 
 ## Design & Presentation Links
 * **Figma Prototype Link:**
